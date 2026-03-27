@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background: linear-gradient(to right, green, black);
+    background: linear-gradient(to right, red, black);
     text-align: center;
     padding: 20px;
 }
@@ -61,4 +61,8 @@ footer {
     text-align: center;
     background: #111;
     padding: 10px;
+}
+header {
+    background-image: url('https://chatgpt.com/backend-api/estuary/content?id=file_00000000536471f5aa2cd52100e8c227&ts=492952&p=fs&cid=1&sig=ceb14c939cec17fccf039e6c9255633e89e51c29b84bf06a4fa3cb76efda2eb0&v=0');
+    background-size: cover;
 }
